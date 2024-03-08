@@ -1,5 +1,5 @@
 # Natural-language-processing
-## I have maintained preprocessing step NLP with simple example 
+## I have maintained Text-Preprocessing step NLP with simple example 
 
 1. Tokenization
 2. Stemming
